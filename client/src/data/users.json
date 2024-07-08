@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "accessToken": null,
+        "email": "employee1@mail.com",
+        "password": "Employee1",
+        "fullname": "Employee1",
+        "role": "jobseeker",
+        "experience": [
+            "CompanyOne;Front-end fejlesztő;2022-2023",
+            "CompanyTwo;Front-end fejlesztő;2023-2024",
+            "CompanyThree;Front-end fejlesztő;2024-"
+        ],
+        "applications": [1, 4, 7, 8],
+        "advertisements": []
+    },
+    {
+        "id": 2,
+        "accessToken": null,
+        "email": "employer1@mail.com",
+        "password": "Employer1",
+        "fullname": "Employer1",
+        "role": "company",
+        "experience": [],
+        "applications": [],
+        "advertisements": [1, 2]
+    },
+    {
+        "id": 3,
+        "accessToken": null,
+        "email": "employee2@mail.com",
+        "password": "Employee2",
+        "fullname": "Employee2",
+        "role": "jobseeker",
+        "experience": [
+            "CompanyOne;Back-end fejlesztő;2022-2023",
+            "CompanyThree;Back-end fejlesztő;2023-"
+        ],
+        "applications": [1, 3, 5, 6, 7],
+        "advertisements": []
+    },
+    {
+        "id": 4,
+        "accessToken": null,
+        "email": "employer2@mail.com",
+        "password": "Employer2",
+        "fullname": "Employer2",
+        "role": "company",
+        "experience": [],
+        "applications": [],
+        "advertisements": [3, 7]
+    },
+    {
+        "id": 5,
+        "accessToken": null,
+        "email": "employee3@mail.com",
+        "password": "Employee3",
+        "fullname": "Employee3",
+        "role": "jobseeker",
+        "experience": [
+            "CompanyOne;Front-end fejlesztő;2021-2022",
+            "CompanyTwo;Front-end fejlesztő;2023-2024",
+            "CompanyThree;Front-end fejlesztő;2024-"
+        ],
+        "applications": [1, 4, 5, 7, 8],
+        "advertisements": []
+    },
+    {
+        "id": 6,
+        "accessToken": null,
+        "email": "employer3@mail.com",
+        "password": "Employer3",
+        "fullname": "Employer3",
+        "role": "company",
+        "experience": [],
+        "applications": [],
+        "advertisements": [4, 5, 6]
+    },
+    {
+        "id": 7,
+        "accessToken": null,
+        "email": "employee4@mail.com",
+        "password": "Employee4",
+        "fullname": "Employee4",
+        "role": "jobseeker",
+        "experience": [
+            "CompanyTwo;Front-end fejlesztő;2023-2024",
+            "CompanyThree;Front-end fejlesztő;2024-"
+        ],
+        "applications": [2, 3, 5, 6],
+        "advertisements": []
+    },
+    {
+        "id": 8,
+        "accessToken": null,
+        "email": "employer4@mail.com",
+        "password": "Employer4",
+        "fullname": "Employer4",
+        "role": "company",
+        "experience": [],
+        "applications": [],
+        "advertisements": [8]
+    }
+]
