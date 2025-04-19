@@ -1,11 +1,10 @@
 ## Jobhunter project
-> Study project for the 'Client side / Front-end webprogramming' class at University,
-> using my knowledge of component based Javascript through React (with Vite), Redux and MUI.
+>Study project for the 'Client side / Front-end webprogramming' course at ELTE University, using my knowledge of component based Javascript coding through React (with Vite), Redux and MUI.
 
 The project is a Single Page Application implemented in React using Redux for state management, and Material UI components for the appearance.
 It shows a simplified job advertisement site where the users can register a profile as job seeker or job advertiser.
 Without registration only the main page can be seen with the list of actual advertisements.
-With registration the users can see different parts of the app, for example job seekers can apply for jobs on the main paige or check their profile and edit their experiences,
+With registration the users can see different parts of the app, for example job seekers can apply for jobs on the main page or check their profile and edit their experiences,
 while job advertisers can make new advertisements or modify existing ones, or check applicants.
 
 Sample details of usage:
